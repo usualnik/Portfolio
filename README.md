@@ -8,4 +8,4 @@
 + **Splines**
 + **And many more features**
 
-## Other projects
+## Other projects :boom:
