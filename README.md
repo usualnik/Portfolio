@@ -8,6 +8,6 @@
 + **Splines**
 + **And many more features**
 
-![OVERDLOW Code example](/images/OverflowCode1.gif)
+![OVERDLOW Code example](/images/OverflowCode1.png)
 
 ## Other projects :boom:
