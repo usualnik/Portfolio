@@ -8,9 +8,11 @@
 + **Splines**
 + **And many more features**
 
-For Unity proggramming i'd prefer using JetBrains Rider.
 
 ![OVERDLOW Code example](/images/OverflowCode1.png)
+
+For Unity proggramming i'd prefer using JetBrains Rider.
+I am always trying to clean and refactor my code. It's common for me to follow unity|c# naming conventions. 
 
 
 
