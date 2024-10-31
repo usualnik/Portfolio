@@ -27,3 +27,5 @@ Although, i'am always open for criticism.
 > THANK YOU for reading this.
 
 ## Other projects :boom:
+
+![Solid day](/images/SolidDay.gif)
