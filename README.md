@@ -33,8 +33,14 @@ Although, i am always open to feedback.
 
 ![Solid day](/images/SolidDay.gif)
 
+**FPS SAMPLE**
+
 ![Wack-a-food](/images/Whack-a-food.gif)
 
+**FPS SAMPLE**
+
 ![Runner](images/RunForesrRun.gif)
+
+**FPS SAMPLE**
 
 ![Multi](images/Multi.gif)
