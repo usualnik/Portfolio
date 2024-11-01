@@ -29,10 +29,11 @@ Although, i am always open to feedback.
 
 ## Other projects :boom:
 
+**FPS SAMPLE**
 ![Solid day](/images/SolidDay.gif)
 
 ![Wack-a-food](/images/Whack-a-food.gif)
 
 ![Runner](images/RunForesrRun.gif)
 
-![Runner](images/Multi.gif)
+![Multi](images/Multi.gif)
