@@ -33,4 +33,4 @@ Although, i am always open to feedback.
 
 ![Wack-a-food](/images/Whack-a-food.gif)
 
-![Runner](images/Runner.gif)
+![Runner](images/RunForesrRun.gif)
