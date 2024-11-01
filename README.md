@@ -31,4 +31,4 @@ Although, i am always open to feedback.
 
 ![Solid day](/images/SolidDay.gif)
 
-![Wack-a-food](/images/Wack-a-food.gif)
+![Wack-a-food](/images/Whack-a-food.gif)
