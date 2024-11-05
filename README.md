@@ -20,7 +20,7 @@ I am always trying to clean and refactor my code and it's common for me to follo
 
 ![OVERFLOW Code example2](images/OveflowCode2.png)
 
-I'am not reall good at code structure and architecture right now. It's more of a all in once for me, but i'am constantly trying to learn and become better. 
+I am not really good at code structure and architecture right now. It's more of a all in once for me, but i'am constantly trying to learn and become better. 
 
 Although, i am always open to feedback.
 
