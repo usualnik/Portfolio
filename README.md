@@ -14,7 +14,7 @@
 
 ![OVERFLOW Code example](/images/OverflowCode1.png)
 
-For Unity proggramming i'd prefer using JetBrains Rider.
+For Unity proggramming I'd prefer using JetBrains Rider.
 
 I am always trying to clean and refactor my code and it's common for me to follow unity|c# naming conventions. 
 
