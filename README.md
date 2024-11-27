@@ -1,9 +1,6 @@
 # Welcome To My Portfolio
 ## Overflow :cowboy_hat_face:
 
-> [!IMPORTANT]
-> This is my 30-days, 2-3 hours per day, project
-
 ![OVERFLOW UNITY PROJECT](/images/Overflow.gif)
 
 + **Unity**
